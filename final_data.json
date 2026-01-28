@@ -1,0 +1,162 @@
+[
+    {
+        "title":"A Light in the Attic",
+        "price":"\u00a351.77",
+        "availability":"In stock",
+        "author":"Shel Silverstein",
+        "publish_year":1981.0,
+        "edition_count":9.0
+    },
+    {
+        "title":"Tipping the Velvet",
+        "price":"\u00a353.74",
+        "availability":"In stock",
+        "author":"Sarah Waters, Sarah Waters, Juanita McMahon",
+        "publish_year":1998.0,
+        "edition_count":22.0
+    },
+    {
+        "title":"Soumission",
+        "price":"\u00a350.10",
+        "availability":"In stock",
+        "author":"Michel Houellebecq",
+        "publish_year":2015.0,
+        "edition_count":21.0
+    },
+    {
+        "title":"Sharp Objects",
+        "price":"\u00a347.82",
+        "availability":"In stock",
+        "author":"Gillian Flynn",
+        "publish_year":2006.0,
+        "edition_count":31.0
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind",
+        "price":"\u00a354.23",
+        "availability":"In stock",
+        "author":"BookNation",
+        "publish_year":2020.0,
+        "edition_count":1.0
+    },
+    {
+        "title":"The Requiem Red",
+        "price":"\u00a322.65",
+        "availability":"In stock",
+        "author":"Brynn Chapman",
+        "publish_year":2016.0,
+        "edition_count":2.0
+    },
+    {
+        "title":"The Dirty Little Secrets of Getting Your Dream Job",
+        "price":"\u00a333.34",
+        "availability":"In stock",
+        "author":"Don Raskin",
+        "publish_year":2016.0,
+        "edition_count":2.0
+    },
+    {
+        "title":"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price":"\u00a317.93",
+        "availability":"In stock",
+        "author":null,
+        "publish_year":null,
+        "edition_count":null
+    },
+    {
+        "title":"The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price":"\u00a322.60",
+        "availability":"In stock",
+        "author":"BookNation",
+        "publish_year":2020.0,
+        "edition_count":1.0
+    },
+    {
+        "title":"The Black Maria",
+        "price":"\u00a352.15",
+        "availability":"In stock",
+        "author":"Aracelis Girmay",
+        "publish_year":2016.0,
+        "edition_count":1.0
+    },
+    {
+        "title":"Starving Hearts (Triangular Trade Trilogy, #1)",
+        "price":"\u00a313.99",
+        "availability":"In stock",
+        "author":null,
+        "publish_year":null,
+        "edition_count":null
+    },
+    {
+        "title":"Shakespeare's Sonnets",
+        "price":"\u00a320.66",
+        "availability":"In stock",
+        "author":"William Shakespeare",
+        "publish_year":1991.0,
+        "edition_count":11.0
+    },
+    {
+        "title":"Set Me Free",
+        "price":"\u00a317.46",
+        "availability":"In stock",
+        "author":"Jay Dee",
+        "publish_year":1992.0,
+        "edition_count":1.0
+    },
+    {
+        "title":"Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price":"\u00a352.29",
+        "availability":"In stock",
+        "author":null,
+        "publish_year":null,
+        "edition_count":null
+    },
+    {
+        "title":"Rip it Up and Start Again",
+        "price":"\u00a335.02",
+        "availability":"In stock",
+        "author":"Simon Reynolds",
+        "publish_year":2005.0,
+        "edition_count":3.0
+    },
+    {
+        "title":"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price":"\u00a357.25",
+        "availability":"In stock",
+        "author":null,
+        "publish_year":null,
+        "edition_count":null
+    },
+    {
+        "title":"Olio",
+        "price":"\u00a323.88",
+        "availability":"In stock",
+        "author":"Tyehimba Jess",
+        "publish_year":2016.0,
+        "edition_count":2.0
+    },
+    {
+        "title":"Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price":"\u00a337.59",
+        "availability":"In stock",
+        "author":null,
+        "publish_year":null,
+        "edition_count":null
+    },
+    {
+        "title":"Libertarianism for Beginners",
+        "price":"\u00a351.33",
+        "availability":"In stock",
+        "author":"Todd Seavey, Nathan Smith, John Stossel",
+        "publish_year":2016.0,
+        "edition_count":1.0
+    },
+    {
+        "title":"It's Only the Himalayas",
+        "price":"\u00a345.17",
+        "availability":"In stock",
+        "author":"S. Bedford",
+        "publish_year":2016.0,
+        "edition_count":1.0
+    }
+]
