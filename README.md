@@ -1,31 +1,32 @@
-# Bookstore Web Scraping with API Integration
+# Web Scraping Librari Online me Integrim API
 
-This project demonstrates a simple web scraping application using Python.
-The data is scraped from the website https://books.toscrape.com and enriched
-with additional information using a public API.
+Ky projekt demonstron një aplikacion të thjeshtë web scraping duke përdorur Python.
+Të dhënat nxirren nga faqja https://books.toscrape.com dhe përpunohen përmes
+një programi të automatizuar. Projekti përfshin gjithashtu integrimin e një API publike
+për marrjen e të dhënave shtesë.
 
-## Features
-- Scrapes book title, price, and availability
-- Uses BeautifulSoup for HTML parsing
-- Uses Requests for HTTP requests
-- Stores data in a Pandas DataFrame
-- Exports final data to CSV/JSON formats
-- Version controlled with Git and GitHub
+## Funksionalitetet
+- Nxjerrja e titullit të librave
+- Nxjerrja e çmimit të librave
+- Kontrolli i disponueshmërisë
+- Ruajtja e të dhënave në DataFrame
+- Eksportimi i të dhënave në format CSV dhe JSON
+- Versionim i projektit me Git dhe GitHub
 
-## Libraries Used
+## Libraritë e përdorura
 - requests
 - beautifulsoup4
 - pandas
 
-## How to Run the Project
-1. Open the notebook in Google Colab
-2. Install required libraries (if needed)
-3. Run all cells sequentially
-4. The final dataset will be generated automatically
+## Si ekzekutohet projekti
+1. Hapni projektin në Google Colab
+2. Ekzekutoni të gjitha qelizat e kodit
+3. Programi do të nxjerrë automatikisht të dhënat
+4. Të dhënat finale ruhen në skedarë CSV dhe JSON
 
-## Data Source
-- Books website: https://books.toscrape.com
-- Public API: Open Library API
+## Burimi i të dhënave
+- Faqja e librave: https://books.toscrape.com
+- API publike: Open Library API
 
-## Author
+## Autori
 Gledis Hoxha
