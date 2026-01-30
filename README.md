@@ -19,10 +19,12 @@ për marrjen e të dhënave shtesë.
 - pandas
 
 ## Si ekzekutohet projekti
-1. Hapni projektin në Google Colab
-2. Ekzekutoni të gjitha qelizat e kodit
-3. Programi do të nxjerrë automatikisht të dhënat
-4. Të dhënat finale ruhen në skedarë CSV dhe JSON
+-Për të ekzekutuar kodin në mënyrë të thjeshtë:
+-Hapni branch-in main të këtij repository.
+-Klikoni mbi file-in scraping_api_py.ipynb.
+-Në faqen e preview-it të GitHub, klikoni butonin “Open in Colab”.
+-Pasi notebook-u të hapet në Google Colab, klikoni Run all ose ekzekutoni qelizat një nga një.
+-Kodi do të kryejë web scraping dhe integrimin e API-së dhe do të gjenerojë file-at përfundimtarë në format CSV dhe JSON.
 
 ## Burimi i të dhënave
 - Faqja e librave: https://books.toscrape.com
